@@ -88,7 +88,7 @@ class RafaelFlorez:
 
 ### Herramientas & Entorno
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,windows&theme=dark" />
 
 </div>
 
@@ -133,13 +133,13 @@ class RafaelFlorez:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelflorez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EC6F0&icon_color=6EC6F0&text_color=c9d1d9&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=florezrafael-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EC6F0&icon_color=6EC6F0&text_color=c9d1d9&rank_icon=github" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelflorez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EC6F0&text_color=c9d1d9&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florezrafael-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EC6F0&text_color=c9d1d9&langs_count=6" height="170"/>
 
 <br/><br/>
 
-![Streak](https://streak-stats.demolab.com?user=rafaelflorez&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6EC6F0&fire=6EC6F0&currStreakLabel=6EC6F0)
+![Streak](https://streak-stats.demolab.com?user=florezrafael-max&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6EC6F0&fire=6EC6F0&currStreakLabel=6EC6F0)
 
 </div>
 
