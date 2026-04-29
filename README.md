@@ -1,75 +1,229 @@
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/004/702/345/small/rf-circle-letter-logo-concept-isolated-on-white-background-vector.jpg" width="50%" alt="Banner"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,80:16213e,100:0f3460&height=280&section=header&text=Rafael%20Florez&fontSize=72&fontColor=e8e8e8&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20Backend%20%C2%B7%20Datos%20%C2%B7%20Soluciones%20reales&descAlignY=62&descSize=16&descColor=a0aec0&animation=fadeIn&fontAlign=50" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=6EC6F0&center=true&vCenter=true&multiline=false&width=500&lines=Construyendo+el+backend+que+nadie+ve...;Modelando+datos+que+cuentan+historias.;Del+servidor+al+cliente%2C+full+stack.;Codigo+limpio%2C+sistemas+que+escalan.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" /> Hola un placer, soy **Rafael Andrés Flórez González**
+<br/>
+
+<div align="center">
+
+## 〈 Sobre mí 〉
+
+</div>
+
+<br/>
 
 <table>
 <tr>
+<td width="55%" valign="top">
 
-<td width="65%">
+python
+class RafaelFlorez:
 
-💻 Desarrollador apasionado por la tecnología y la creación de soluciones mediante software.
+    rol     = "Full Stack Developer"
+    base    = "Colombia 🇨🇴"
+    enfoque = ["Backend", "Datos", "Frontend"]
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="19" height="19" /> Actualmente aprendiendo: **Python / C# / C++**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" alt="Smiling Face with Heart-Eyes" width="19" height="19" /> Intereses: **Desarrollo web, IA**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="19" height="19" /> Contacto: **florezrafael447@email.com**
+    stack = {
+        "lenguajes" : ["Python", "C#", "SQL"],
+        "datos"     : ["MySQL", "Excel", "ETL"],
+        "entorno"   : ["VS Code", "Git", "Linux"],
+    }
+
+    def filosofia(self):
+        return "Código que se entiende, escala."
+
 
 </td>
+<td width="45%" align="center" valign="middle">
 
-<td width="35%" align="center">
-
-<img src="https://media-bog2-2.cdn.whatsapp.net/v/t61.24694-24/643094332_1418328556230859_8784659320417987120_n.jpg?ccb=11-4&oh=01_Q5Aa4QEa87d1qtXrRH1bhDcPoB_rMW0-jg4Qjo3Lj-d80MFw3g&oe=69FEF967&_nc_sid=5e03e0&_nc_cat=110" width="50%" alt="Banner"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="coding gif"/>
 
 </td>
-
 </tr>
 </table>
----
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="28" height="28" /> Conocimientos
-
-### Lenguajes
-- <code><img width="28" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code> Python
-- <code><img width="28" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code> C# 
-- <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code> C++
-
-### Herramientas De Trabajo
-- Visual Studio <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBQk4Fgd0cYavEztNLFcVkRBRvOZ40AdH17uQXVRXdtvNuXjTF6d4SVvTokMOzHlFurktQtIwTW_ULiDeOD9ge8Q-&format=source" alt="Folded Hands Light Skin Tone" width="40" height="40" />
-- Antigravity <img src="https://cdn.prod.website-files.com/6088303c28a7c75678aa21d8/693c0580a2ac4c34726aa6ba_-Zz6T2nk_400x400.png" alt="Nerd Face" width="40" height="40" />
-- Visual Studio Code <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-
-### Modelado De Datos
-- My SQL <img src="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" alt="Folded Hands Light Skin Tone" width="40" height="40" />
-- Excel <img src="https://e7.pngegg.com/pngimages/60/140/png-clipart-excel-logo-excel-logo-generated-tool.png" alt="Folded Hands Light Skin Tone" width="40" height="40" />
-- Power Pivot <img src="https://thesmartmethod.com/wp-content/uploads/2020/09/power-pivot.png" alt="Folded Hands Light Skin Tone" width="40" height="40" />
-- Power Query <img src="https://miro.medium.com/1*NskfqfPw5aOioZ1hAIIgYg.png" alt="Folded Hands Light Skin Tone" width="45" height="45" />
-- Power Bi <img src="https://www.telelogos.com/wp-content/uploads/2024/05/logo-power-bi-sans-nom.png" alt="Folded Hands Light Skin Tone" width="32" height="32" />
+<br/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tecnologías
+<br/>
 
-![Tech](https://skillicons.dev/icons?i=python,cpp,cs)
+<div align="center">
+
+## 〈 Stack Tecnológico 〉
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Backend & Lenguajes
+
+<img src="https://skillicons.dev/icons?i=python,cs,mysql&theme=dark" />
+
+<br/><br/>
+
+### Datos & Análisis
+
+<img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=6EC6F0"/>
+<img src="https://img.shields.io/badge/Excel-1a1a2e?style=for-the-badge&logo=microsoftexcel&logoColor=6EC6F0"/>
+<img src="https://img.shields.io/badge/ETL%20%2F%20Power%20Query-1a1a2e?style=for-the-badge&logo=databricks&logoColor=6EC6F0"/>
+
+<br/><br/>
+
+### Herramientas & Entorno
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows&theme=dark" />
+
+</div>
+
+<br/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Hobbies e intereses
+<br/>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> Videojuegos
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Piece" width="25" height="25" /> Resolver retos de programación
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="25" height="25" /> Escuchar música mientras programo
+<div align="center">
+
+## 〈 Nivel por Tecnología 〉
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Tecnología | Nivel | Barra |
+|:----------:|:-----:|:------|
+| 🐍 Python | Avanzado | ████████████████████|
+| 🗄️ MySQL | Avanzado | ███████████████████ |
+| 🔷 C# | Intermedio | ████████████████ |
+| 📊 Excel / PQ | Avanzado | ██████████████████ |
+
+</div>
+
+<br/>
 
 ---
 
-## 🌐 Redes
+<br/>
 
-- [GitHub](https://github.com/florezrafael-max)
+<div align="center">
+
+# 〈 GitHub Stats 〉
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rafaelflorez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EC6F0&icon_color=6EC6F0&text_color=c9d1d9&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelflorez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EC6F0&text_color=c9d1d9&langs_count=6" height="170"/>
+
+<br/><br/>
+
+![Streak](https://streak-stats.demolab.com?user=rafaelflorez&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6EC6F0&fire=6EC6F0&currStreakLabel=6EC6F0)
+
+</div>
+
+<br/>
 
 ---
 
-## ✨ Filosofía
+<br/>
 
-> "Aprender constantemente es la clave para mejorar."
+<div align="center">
+
+## 〈 En imágenes 〉
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="data"/><br/>
+<sub><b>Análisis de datos</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180" alt="backend"/><br/>
+<sub><b>Backend & Lógica</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="fullstack"/><br/>
+<sub><b>Full Stack Dev</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 〈 Principios 〉
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> "El código que no se entiende, no escala."
+
+> "Los datos bien modelados valen más que mil dashboards."
+
+> "Un sistema full stack es tan fuerte como su eslabón más débil."
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 〈 Contacto 〉
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-rafaelflorez-0d1117?style=for-the-badge&logo=github&logoColor=6EC6F0)](https://github.com/florezrafael-max)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-contacto-0d1117?style=for-the-badge&logo=gmail&logoColor=6EC6F0)](mailto:florezrafael447@gmail.com)
+
+<br/>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaelflorez.rafaelflorez&left_color=1a1a2e&right_color=0f3460&left_text=visitas)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,80:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
+
+</div>
