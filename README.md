@@ -21,7 +21,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://media-bog2-2.cdn.whatsapp.net/v/t61.24694-24/610343510_960737209857620_9017407109210817093_n.jpg?ccb=11-4&oh=01_Q5Aa4AEvfBkDg2DP0DNK0Hw01BavjdrAHDhTd6YGm_FBHGhg6Q&oe=69C65511&_nc_sid=5e03e0&_nc_cat=107" width="50%" alt="Banner"/>
+<img src="https://media-bog2-2.cdn.whatsapp.net/v/t61.24694-24/643094332_1418328556230859_8784659320417987120_n.jpg?ccb=11-4&oh=01_Q5Aa4QEa87d1qtXrRH1bhDcPoB_rMW0-jg4Qjo3Lj-d80MFw3g&oe=69FEF967&_nc_sid=5e03e0&_nc_cat=110" width="50%" alt="Banner"/>
 
 </td>
 
